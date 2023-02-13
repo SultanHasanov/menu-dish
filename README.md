@@ -1,4 +1,4 @@
-Копируем репозиторий
+<b>Копируем репозиторий</b>
 ```
 git clone https://github.com/SultanHasanov/menu-dish.git
 ```
